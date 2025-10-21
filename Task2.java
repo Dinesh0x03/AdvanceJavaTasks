@@ -11,7 +11,7 @@ public class Task2 {
 	// delete single row using user given values
 	static final String jdbc_Url = "jdbc:mysql://localhost:3306/springboot";
 	static final String user_name = "root";
-	static final String password = "4876";
+	static final String password = "";
 	
 	public static void main(String[] args) {
 		try(Connection con = DriverManager.getConnection(jdbc_Url,user_name,password);
