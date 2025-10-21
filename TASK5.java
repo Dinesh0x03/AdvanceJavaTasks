@@ -12,7 +12,7 @@ public class TASK5 {
 	
 	static final String url = "jdbc:mysql://localhost:3306/springboot";
 	static final String user_name = "root";
-	static final String password = "4876";
+	static final String password = "";
 	
 	public static void main(String[] args) {
 		
